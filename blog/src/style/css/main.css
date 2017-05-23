@@ -1,0 +1,51 @@
+body {
+	background-color : #fcfcfc;
+}
+.section-post {
+	margin-top : 20px;
+	padding : 5px 25px 5px 25px;
+	background-color : white;
+}
+.titre-section-post {
+	margin-top : 10px;
+	weight : bold;
+	color : #FFAE16;
+}
+.post {
+	padding-top : 10px;
+	
+}
+.post-title {
+	color : #787c82;
+	margin-top : 2px;
+}
+
+.portfolio {
+	border-bottom : 1px solid #787c82;
+	margin-top :20px;
+	padding-bottom : 10px;
+}
+.portfolio-title {
+	color : black;
+	margin-top : 2px;
+}
+
+.portfolio-langage {
+	color : grey;
+	margin-top : 2px;
+}
+.portofolio-desc {
+	margin-top : 10px;
+}
+
+.menu{
+	background-color : black;
+	padding : 10px 30px 10px 30px;
+}
+
+.navbar-brand {
+	color : white;
+}
+.nav-link, .nav-link:hover, .nav-link:visited, .nav-link:focus {
+	color : white !important;
+}
